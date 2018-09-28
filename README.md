@@ -1,6 +1,6 @@
 ### Twitter Client
 
-Implement a simple *Twitter client* as a single page application which initially shows general public tweets. When a user requests a specific Twitter handle and shows the latest tweets from that handle. There should also be a way to filter / search tweets by text. Once the user has selected a handle to view the Tweets from, the UI should periodically update with newer Tweets. 
+Implement a simple *Twitter client* as a single page application which initially shows general public tweets. Allow the user to specify a specific handle to view the tweets from. When a user requests a specific Twitter handle and the UI shows the latest tweets from that handle, there should also be a way to filter / search tweets by text. Also, once the user has selected a handle to view the Tweets from, the UI should periodically update with newer Tweets. 
 
 #### Grading Criteria
 
