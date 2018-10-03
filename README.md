@@ -31,3 +31,4 @@ You are all set play with the app....yay...!!!!!
 ![alt tag](/Users/svankina/Documents/dummy/slnc/soma-slync-test/latestTweets.png "Show latest Tweets")
 ![alt tag](/Users/svankina/Documents/dummy/slnc/soma-slync-test/tweetByName.png "Show Tweets by twitter name")
 ![alt tag](/Users/svankina/Documents/dummy/slnc/soma-slync-test/search.png "Search tweets by text")
+
