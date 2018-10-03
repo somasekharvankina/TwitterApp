@@ -25,3 +25,6 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens
 Path: app/tweets.js
 
 You are all set play with the app....yay...!!!!!
+
+
+/Users/svankina/Documents/dummy/slnc/soma-slync-test
