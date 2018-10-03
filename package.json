@@ -1,0 +1,16 @@
+{
+  "name": "starter-node-angular",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "~4.5.1",
+    "log4js": "^3.0.5",
+    "method-override": "~2.0.2",
+    "mongoose": "~3.8.0",
+    "redis": "^2.8.0",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1"
+  }
+}

@@ -1,23 +1,27 @@
-### Twitter Client
+# MEAN Stack Single Page Application Starter
 
-Implement a simple *Twitter client* as a single page application which initially shows general public tweets. Allow the user to specify a specific handle to view the tweets from. When a user requests a specific Twitter handle and the UI shows the latest tweets from that handle, there should also be a way to filter / search tweets by text. Also, once the user has selected a handle to view the Tweets from, the UI should periodically update with newer Tweets. 
+This Twitter application is a Single Page MEAN Stack application. 
+Get latest tweets from Twitter API updates every 5 minutes.
+The search button in the header taken twitter name and update the UI with custom user tweets.
+The search box help to filter tweets based on any search tect.
 
-#### Grading Criteria
+## Installation
+1. Download the repository
+2. Install npm modules: `npm install`
+3. Install bower dependencies `bower install`
+4. Start up the server: `node server.js`
+5. View in browser at http://localhost:8080
 
-UI Design
-Architecture
-Maintainability
-Testing
+## Prerequisites
+Install REDIS : https://redis.io/topics/quickstart
+To start Redis server, 
 
-#### Technology
+        $ redis-server (To start the redis server)
+        $ redis-cli (To check into redis)
+        $ keys * (To check all the current cache keys)
+        
+Add custom twitter account developers keys
+https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html
+Path: app/tweets.js
 
-You can pick any frontend and/or backend technologies you are familiar with. You can and should use the Twitter API. 
-
-#### Submission
-
-You will submit to a this git repo. When done, make sure you provide instructions on how to run your code (preferably as a docker image) in this README.
-
-Note: *Do not* create a Twitter clone and *do not* share any Twitter API secrets in your code.
-
-Best of luck! 
-Slync Engineering Team
+You are all set play with the app....yay...!!!!!
